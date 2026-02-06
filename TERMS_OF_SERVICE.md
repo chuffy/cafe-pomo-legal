@@ -77,4 +77,4 @@ These Terms shall be governed by and construed in accordance with the laws of th
 
 If you have questions about these Terms, please contact us at:
 
-**Email:** cafepomo@gmail.com
+**Email:** humexerience.design@gmail.com
