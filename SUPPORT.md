@@ -43,6 +43,14 @@ A: Go to Settings > Restore Purchases. Make sure you're signed into the same App
 **Q: I made a purchase but didn't receive it. What do I do?**
 A: First, try restoring purchases. If the issue persists, contact us at humexerience.design@gmail.com with your purchase receipt.
 
+### Art & Collaboration
+
+**Q: Who creates the cafe backgrounds and artwork?**
+A: Our backgrounds are inspired by real photographs and experiences from cafes around the world, then transformed into illustrated scenes perfect for focusing. Each piece captures the cozy atmosphere of a real place.
+
+**Q: Are you looking for artists to contribute?**
+A: Yes! We're always seeking talented artists interested in turning cafe photographs and experiences into illustrated backgrounds for the app. This is a paid opportunity. If you're interested in collaborating, please reach out to us at humexerience.design@gmail.com with your portfolio or examples of your work.
+
 ### Technical Issues
 
 **Q: The app is crashing or not working properly. What should I do?**
